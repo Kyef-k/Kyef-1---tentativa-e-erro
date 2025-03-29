@@ -22,7 +22,6 @@
 		"innerColor": [213,249,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Era Helenística",
-		"uniques": ["A cada cidade conquistada recebe um aumento de [10]% na cultura e nas rotas comercias"]
 		"cities": ["Aegae", "Pela", "Ócrida", "Mieza", "Prydna", "Alexandria", "Bucefala", "Stibera", "Arccoda", "Thessaloniki", "Edessa" ],
                 "spyNames": ["Hetairoi", "Skoteinoi", "Akanthos", "Kryptoi", "Algama", "Skias", "Ephoroi", "Nyxios", "Skotiaphoroi"]
 	}
