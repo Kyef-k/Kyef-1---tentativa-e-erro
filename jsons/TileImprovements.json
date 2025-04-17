@@ -62,6 +62,7 @@
         "uniques": [
             "Great Improvement",
             "[+4 Gold] <after discovering [Economics]>",
+            "Improves [Luxury] resource in this tile",
             "Removes removable features when built",
             "Pillaging this improvement yields approximately [+20 Gold]"
         ]
