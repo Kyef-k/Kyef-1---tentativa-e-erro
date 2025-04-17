@@ -69,3 +69,16 @@
             "Great Person - [Food]", "Unbuildable", "Uncapturable"],
                 "movement": 2
 	},
+        {
+        "name": "Great Admiral",
+        "unitType": "Civilian Water",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+            "Unbuildable",
+            "Uncapturable",
+            "Can be earned through combat <for [Water] units>",
+            "Great Person - [Navy]",
+            "Can instantly construct a [Sea port] improvement <by consuming this unit>"
+        ],
+        "movement": 6
+    },
