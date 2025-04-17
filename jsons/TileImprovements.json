@@ -79,3 +79,15 @@
             "Removes removable features when built"
         ]
     },
+    {
+		"name": "Farmyard",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 6,
+		"uniques": [
+            "Great Improvement",
+            "Removes removable features when built",
+            "Pillaging this improvement yields approximately [+20 Gold]",
+            "[+1 Food] <after discovering [Civil Service]>",
+            "[+1 Food] <after discovering [Fertilizer]>"
+        ]
+    },
