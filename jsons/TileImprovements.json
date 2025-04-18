@@ -85,7 +85,8 @@
 		"food": 6,
 		"uniques": [
             "Great Improvement",
-	    "[+1 Food] from [Fresh water] tiles",
+	    "[+1 Food] from [Fresh water] tiles", "[+1 Food] from [Bonus resource] tiles",
+	    "[-1 Food] from [Stone] tiles",
 	    "Improves [Bonus] resource in this tile", "Can also be built on tiles adjacent to fresh water",
             "Pillaging this improvement yields approximately [+20 Gold]",
             "[+1 Food] <after discovering [Civil Service]>",
